@@ -1,0 +1,22 @@
+.beerDetails img {
+  width: 20%;
+  height: auto;
+}
+
+.beerDetails p {
+  text-align: left;
+  margin: auto 1rem;
+}
+
+.beerNameAtt,
+.beerTagBrewed {
+  display: flex;
+  justify-content: space-between;
+  margin: auto 1rem;
+}
+
+.att,
+.beerTagBrewed {
+  display: flex;
+  align-items: center;
+}

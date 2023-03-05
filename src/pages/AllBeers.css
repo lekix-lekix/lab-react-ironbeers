@@ -1,0 +1,23 @@
+.beer {
+  border-bottom: solid 1px gray;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+  margin-bottom: 1rem;
+}
+
+.beer img {
+  width: 2rem;
+  height: 8rem;
+  padding: auto 1rem;
+}
+
+.oneBeerText {
+  width: 70vw;
+}
+
+.oneBeerImage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
